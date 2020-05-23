@@ -1,0 +1,1041 @@
+﻿<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui" name="viewport">
+
+    <link rel="stylesheet" href="https://static.indienova.com/assets/css/stylepack.css?v=2020-03-31" type="text/css" />
+                            <link rel="stylesheet" href="https://static.indienova.com/assets/css/audioplayer.css" type="text/css" />
+                            <link rel="stylesheet" href="https://static.indienova.com/assets/js/vendor/mejs/mediaelementplayer.min.css" type="text/css" />
+    
+    <link rel="stylesheet" href="https://static.indienova.com/assets/css/indienova-style.css?v=2020-03-31" type="text/css" />
+
+    <!-- Icon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="https://static.indienova.com/assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="https://static.indienova.com/assets/favicon/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://static.indienova.com/assets/favicon/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="https://static.indienova.com/assets/favicon/manifest.json">
+    <link rel="mask-icon" href="https://static.indienova.com/assets/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="apple-mobile-web-app-title" content="indienova">
+    <meta name="application-name" content="indienova">
+    <meta name="theme-color" content="#ffffff">
+
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="https://static.indienova.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+    <!-- External JavaScripts
+    ============================================= -->
+    <script type="text/javascript" src="https://static.indienova.com/assets/js/jquery.js"></script>
+    <script type="text/javascript" src="https://static.indienova.com/assets/js/plugins.js?v=2020-03-31"></script>
+    <script type="text/javascript" src="https://static.indienova.com/assets/js/prettify.js"></script>
+
+        
+    <!-- Document Title ============================================= -->
+            <title>本周 Steam 值得关注的游戏 11.11-11.17（上） | indienova 独立游戏</title>
+    
+    
+    <meta name="description" content="indienova 独立游戏 新闻，评测，开发教学, 烽火连城" />
+    <meta name="keywords" content="独立游戏 indienova 新闻 评测 开发 教学 烽火连城" />
+    <meta name="author" content="indienova.com 烽火连城" />
+</head>
+<body class="stretched no-transition" data-spy="scroll" data-target=".scrollspy">
+
+    <!-- Document Wrapper ============================================= -->
+    <div id="wrapper" class="clearfix">
+
+            <div class="device-xs visible-xs"></div>
+    <div class="device-sm visible-sm"></div>
+    <div class="device-md visible-md"></div>
+    <div class="device-lg visible-lg"></div>
+            <div id="top-bar">
+
+            <div class="container topline clearfix">
+
+                <div class="col_half nobottommargin">
+
+                    <!-- Top Links
+                    ============================================= -->
+                    <div class="top-links">
+                        <ul class="sf-menu clearfix">
+                            <li>
+                                <a href="/" class="hidden-xs">首页</a>
+                                <a href="/" class="visible-xs"><i class="icon-cn-indienova"></i></a>
+                            </li>
+                            <li id="user-block">
+                                                                        <a href="/get/login" data-lightbox="ajax"><i class="icon-line2-user"></i> 登录／注册</a>
+                                    
+                                                            </li>
+                                                        
+                            <li>
+                                <a href="/en" class="hidden-xs">
+                                    <img width="14" height="14" src="https://static.indienova.com/assets/images/countries/gb.svg" alt="English">
+                                    &nbsp; English
+                                </a>
+                                <a href="/en" class="visible-xs">
+                                    <img width="14" height="14" src="https://static.indienova.com/assets/images/countries/gb.svg" alt="English">
+                                    &nbsp; En
+                                </a>
+                                <ul class="topper-list">
+                                    <li>
+                                        <a href="/en">
+                                            <img width="14" height="14" src="https://static.indienova.com/assets/images/countries/gb.svg" alt="English">
+                                            English
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/">
+                                            <img width="14" height="14" src="https://static.indienova.com/assets/images/countries/cn.svg" alt="Chinese">
+                                            简体中文
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div><!-- .top-links end -->
+
+                </div>
+
+                <div class="col_half fright col_last nobottommargin">
+
+                    <!-- Top Social
+                    ============================================= -->
+                    <div id="top-social">
+                        <ul>
+                            <li><a data-hover-width="103" style="width: 40px;" href="http://weibo.com/indienova" target="new" class="si-weibo"><span class="ts-icon"><i class="icon-cn-weibo"></i></span><span class="ts-text">新浪微博</span></a></li>
+                            <li><a data-hover-width="103" style="width: 40px;" href="https://static.indienova.com/assets/images/QR_WeChat-new.jpg" data-lightbox="image" class="si-wechat"><span class="ts-icon"><i class="icon-cn-wechat"></i></span><span class="ts-text">indienova</span></a></li>
+                            <li><a data-hover-width="120" style="width: 40px;" href="https://static.indienova.com/assets/images/QR_QQ_3.jpg" data-lightbox="image" class="si-qq"><span class="ts-icon"><i class="icon-cn-qq"></i></span><span class="ts-text">QQ 群：484558766 (满), 651728262, 438069902, 695554827</span></a></li>
+                            <li><a data-hover-width="120" style="width: 40px;" href="http://zhuanlan.zhihu.com/indienova" target="new" class="si-intensedebate"><span class="ts-icon"><i class="icon-cn-zhihu"></i></span><span class="ts-text">知乎专栏</span></a></li>
+                            <li><a data-hover-width="120" style="width: 40px;" href="https://store.steampowered.com/publisher/indienova" target="new" class="si-appstore"><span class="ts-icon"><i class="icon-steam"></i></span><span class="ts-text">indienova</span></a></li>
+                            <li><a data-hover-width="103" style="width: 40px;" href="https://www.facebook.com/Indienova-1689611754692764/" target="new" class="si-facebook"><span class="ts-icon"><i class="icon-facebook"></i></span><span class="ts-text">Facebook</span></a></li>
+                            <li><a data-hover-width="90" style="width: 40px;" href="https://twitter.com/indienovacn" target="new" class="si-twitter"><span class="ts-icon"><i class="icon-twitter"></i></span><span class="ts-text">Twitter</span></a></li>
+                            <li><a data-hover-width="225" style="width: 40px;" href="#" class="si-email3"><span class="ts-icon"><i class="icon-email3"></i></span><span class="ts-text">info(at)indienova.com</span></a></li>
+                        </ul>
+                    </div><!-- #top-social end -->
+
+                </div>
+
+            </div>
+
+        </div>
+    
+    <!-- Header
+    ============================================= -->
+    <header id="header" class="xsticky-header">
+
+        <div id="header-wrap">
+
+            <div class="container clearfix">
+
+                <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+
+                <!-- Logo
+                ============================================= -->
+                <div id="logo">
+
+                    <!--<a href="/" class="standard-logo" data-dark-logo="https://static.indienova.com/assets/images/logos/indienova_dog_dark.png"><img-->
+                            <!--src="https://static.indienova.com/assets/images/logos/indienova_dog.png" alt="indienova"></a>-->
+                    <!--<a href="/" class="retina-logo" data-dark-logo="https://static.indienova.com/assets/images/logos/indienova_dog_dark@2x.png"><img-->
+                            <!--src="https://static.indienova.com/assets/images/logos/indienova_dog@2x.png" alt="indienova"></a>-->
+
+                    <a href="/" class="standard-logo" data-dark-logo="https://static.indienova.com/assets/images/logos/indienova_newdark.png"><img
+                            src="https://static.indienova.com/assets/images/logos/indienova_new.png" alt="indienova"></a>
+                    <a href="/" class="retina-logo" data-dark-logo="https://static.indienova.com/assets/images/logos/indienova_newdark@2x.png"><img
+                            src="https://static.indienova.com/assets/images/logos/indienova_new@2x.png" alt="indienova"></a>
+                </div>
+                 <!--#logo end-->
+
+                <!-- Primary Navigation
+                ============================================= -->
+                <nav id="primary-menu" class="sticky-style-2">
+
+                    <ul>
+                        <li>
+                            <a href="/indie-game-news/">
+                                <div>文章<i class="icon-caret-down"></i></div>
+                            </a>
+                            <ul>
+                                <li><a href="/channel/news"><div><i class="icon-note"></i>资讯</div></a></li>
+                                <li><a href="/channel/game"><div><i class="icon-line2-fire"></i>前瞻</div></a></li>
+                                <li><a href="/channel/reviews"><div><i class="icon-pen"></i>评测</div></a></li>
+                                <li><a href="/channel/culture"><div><i class="icon-bulb"></i>漫谈</div></a></li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <a href="/column">
+                                <div>专题<i class="icon-caret-down"></i></div>
+                            </a>
+                            <ul>
+
+                                <!--游戏推荐-->
+                                <li>
+                                    <a href="#"><div><i class="icon-line-paper-stack"></i> 游戏推荐</div></a>
+                                    <ul>
+                                        <li><a href="/column/29"><div><i class="icon-line-paper-stack"></i>一周值得关注的发售作品</div></a></li>
+                                        <li><a href="/column/41"><div><i class="icon-line-paper-stack"></i>诺娃速递</div></a></li>
+                                        <li><a href="/column/43"><div><i class="icon-line-paper-stack"></i>周末游戏视频集锦</div></a></li>
+                                        <li><a href="/column/45"><div><i class="icon-line-paper-stack"></i>每月媒体评分</div></a></li>
+                                        <li><a href="/column/42"><div><i class="icon-line-paper-stack"></i>Apple Arcade</div></a></li>
+                                        <li><a href="/column/39"><div><i class="icon-line-paper-stack"></i>年度最佳游戏</div></a></li>
+                                        <li><a href="/column/1"><div><i class="icon-line-paper-stack"></i>Indie Focus 近期新游</div></a></li>
+                                        <li><a href="/column/8"><div><i class="icon-line-paper-stack"></i>indienova Picks 精选</div></a></li>
+                                    </ul>
+                                </li>
+
+                                <!--游戏评论-->
+                                <li>
+                                    <a href="#"><div><i class="icon-line-paper-stack"></i> 游戏评论</div></a>
+                                    <ul>
+                                        <li><a href="/column/6"><div><i class="icon-line-paper-stack"></i>游必有方 Podcast</div></a></li>
+                                        <li><a href="/column/3"><div><i class="icon-line-paper-stack"></i>独立游戏潮（RED）</div></a></li>
+                                    </ul>
+                                </li>
+
+
+                                <!--游戏开发专题-->
+                                <li>
+                                    <a href="#"><div><i class="icon-line-paper-stack"></i> 游戏开发专题</div></a>
+                                    <ul>
+                                        <li><a href="/column/15"><div><i class="icon-line-paper-stack"></i>游戏设计模式</div></a></li>
+                                        <li><a href="/column/14"><div><i class="icon-line-paper-stack"></i>Roguelike 开发</div></a></li>
+                                        <li><a href="/column/7"><div><i class="icon-line-paper-stack"></i>GMS 中文教程</div></a></li>
+                                    </ul>
+                                </li>
+
+                                <!--游戏设计专题-->
+                                <li>
+                                    <a href="#"><div><i class="icon-line-paper-stack"></i> 游戏设计专题</div></a>
+                                    <ul>
+                                        <li><a href="/column/10"><div><i class="icon-line-paper-stack"></i>游戏与所有</div></a></li>
+                                        <li><a href="/column/33"><div><i class="icon-line-paper-stack"></i>让人眼前一亮的游戏设计</div></a></li>
+                                        <li><a href="/column/17"><div><i class="icon-line-paper-stack"></i>游戏音乐分析</div></a></li>
+                                        <li><a href="/column/4"><div><i class="icon-line-paper-stack"></i>游戏情感设计</div></a></li>
+                                        <li><a href="/column/22"><div><i class="icon-line-paper-stack"></i>游戏相关书籍</div></a></li>
+                                        <li><a href="/column/11"><div><i class="icon-line-paper-stack"></i>游戏设计课程笔记</div></a></li>
+                                        <li><a href="/column/24"><div><i class="icon-line-paper-stack"></i>游戏设计工具</div></a></li>
+                                        <li><a href="/column/26"><div><i class="icon-line-paper-stack"></i>游戏设计灵感</div></a></li>
+                                        <li><a href="/column/27"><div><i class="icon-line-paper-stack"></i>设计师谈设计</div></a></li>
+                                        <li><a href="/column/28"><div><i class="icon-line-paper-stack"></i>游戏研究方法</div></a></li>
+                                        <li><a href="/column/38"><div><i class="icon-line-paper-stack"></i>功能游戏</div></a></li>
+                                        <li><a href="/column/9"><div><i class="icon-line-paper-stack"></i>游戏设计专业院校</div></a></li>
+                                        <li><a href="/column/19"><div><i class="icon-line-paper-stack"></i>像素课堂</div></a></li>
+                                    </ul>
+                                </li>
+
+                                <!--游戏文化专题-->
+                                <li>
+                                    <a href="#"><div><i class="icon-line-paper-stack"></i> 游戏文化专题</div></a>
+                                    <ul>
+                                        <li><a href="/column/23"><div><i class="icon-line-paper-stack"></i>工作室访谈</div></a></li>
+                                        <li><a href="/column/5"><div><i class="icon-line-paper-stack"></i>indie Figure 游戏人</div></a></li>
+                                        <li><a href="/column/12"><div><i class="icon-line-paper-stack"></i>Supply 周末补给站</div></a></li>
+                                        <li><a href="/column/44"><div><i class="icon-line-paper-stack"></i>游戏艺术家</div></a></li>
+                                        <li><a href="/column/18"><div><i class="icon-line-paper-stack"></i>独立游戏音乐欣赏</div></a></li>
+                                        <li><a href="/column/21"><div><i class="icon-line-paper-stack"></i>游戏瑰宝</div></a></li>
+                                        <li><a href="/column/16"><div><i class="icon-line-paper-stack"></i>电子 RPG 小史</div></a></li>
+                                        <li><a href="/column/2"><div><i class="icon-line-paper-stack"></i>ALT. CTRL. GAMING</div></a></li>
+                                    </ul>
+                                </li>
+
+                                <!--Game Jam-->
+                                <li>
+                                    <a href="#"><div><i class="icon-line-paper-stack"></i> Game Jam</div></a>
+                                    <ul>
+                                        <li><a href="/column/31"><div><i class="icon-line-paper-stack"></i>Ludum Dare</div></a></li>
+                                        <li><a href="/column/13"><div><i class="icon-line-paper-stack"></i>Global Game Jam</div></a></li>
+                                    </ul>
+                                </li>
+
+                            </ul>
+                        </li>
+
+                        <li>
+                            <a href="/indie-game-development/">
+                                <div>开发<i class="icon-caret-down"></i></div>
+                            </a>
+                            <ul>
+                                <li><a href="/channel/engine"><div><i class="icon-line2-rocket"></i>引擎</div></a></li>
+                                <li><a href="/channel/design"><div><i class="icon-atom"></i>设计</div></a></li>
+                                <li><a href="/channel/programming"><div><i class="icon-line2-screen-desktop"></i>编程</div></a></li>
+                                <li><a href="/channel/software"><div><i class="icon-line2-wrench"></i>工具</div></a></li>
+                                <li><a href="/sp/gameDevResource"><div><i class="icon-line2-globe"></i>资源</div></a></li>
+                                <li><a href="/resource"><div><i class="icon-line-box"></i>素材</div></a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="/usergames">
+                                <div>游戏<i class="icon-caret-down"></i></div>
+                            </a>
+                            <ul>
+                                <li><a href="/usergames">
+                                    <div><i class="icon-line2-ghost"></i> 会员开发游戏库</div>
+                                </a></li>
+
+                                <li>
+                                    <a href="/gamedb"><div><i class="icon-cn-pacman"></i> GameDB 游戏库</div></a>
+                                    <ul>
+                                        <li><a href="/gamedb"><div><i class="icon-cn-pacman"></i> GameDB 游戏库</div></a></li>
+                                        <li><a href="/gamedb/platform/win/p/1"><i class="icon-platform-win2"></i> Windows</a></li>
+                                        <li><a href="/gamedb/platform/nintendo-switch/p/1"><i class="icon-console-switch"></i> Switch</a></li>
+                                        <li><a href="/gamedb/platform/ps4--1/p/1"><i class="icon-console-ps"></i> PS4</a></li>
+                                        <li><a href="/gamedb/platform/ios/p/1"><i class="icon-platform-mac2"></i> iOS</a></li>
+                                        <li><a href="/gamedb/platform/xboxone/p/1"><i class="icon-console-xbox"></i> XBOX One</a></li>
+                                        <li><a href="/gamedb/platform/android/p/1"><i class="icon-platform-android2"></i> Android</a></li>
+                                        <li><a href="/gamedb/platform/wechat-mini-game/p/1"><i class="icon-cn-wechat"></i> 微信小游戏</a></li>
+                                        <li><a href="/gamedb/platform/3ds/p/1"><i class="icon-console-nintendo"></i> 3DS</a></li>
+                                        <li><a href="/gamedb/platform/psvita/p/1"><i class="icon-console-ps"></i> PS Vita</a></li>
+                                    </ul>
+                                </li>
+
+                                <li>
+                                    <a href="/steam"><div><i class="icon-steam"></i> Steam 独立游戏库</div></a>
+                                    <ul>
+                                        <li><a href="/steam"><div><i class="icon-steam"></i> Steam 独立游戏库</div></a></li>
+                                        <li><a href="/sp/trends"><div><i class="icon-line2-users"></i> 会员 Steam 数据统计</div></a></li>
+                                        <li><a href="/steam/chinese"><div class="text-danger"><i class="icon-steam"></i> 华人 Steam 独立游戏</div></a></li>
+                                        <li><a href="/steam/greenlight"><div class="text-success"><i class="icon-steam"></i> 华人 Steam 绿光列表</div></a></li>
+                                        <li><a href="/steam/recommended"><div><i class="icon-like"></i> 推荐 Steam 游戏</div></a></li>
+                                        <li><a href="/steam/mustbuy"><div><i class="icon-diamond2"></i> 必买 Steam 游戏</div></a></li>
+                                        <li><a href="/corp/steamkey"><div><i class="icon-steam"></i> 免费 Steam Key</div></a></li>
+                                    </ul>
+                                </li>
+
+                                <li><a href="/corp/ggjgamelist" target="_blank"><div><i class="icon-line2-ghost"></i> GGJ 中国区作品展示</div></a></li>
+                                <li><a href="/corp/gutenberg" target="_blank"><div><i class="icon-line-globe"></i> 游戏古登堡官中计划</div></a></li>
+                                <li><a href="/corp/publishing" target="_blank"><div><i class="icon-line-globe"></i> indienova 游戏发行</div></a></li>
+                            </ul>
+                        </li>
+                        <li class="mega-menu"><a href="/blogs/all"><div>日志</div></a></li>
+                        <li><a href="/groups"><div>小组</div></a></li>
+                        <li><a href="/novapress"><div>钥玩<sup class="text-red"><i class="icon-star3"></i></sup></div></a></li>
+                    </ul>
+
+                    <!-- Top Search
+                    ============================================= -->
+                    <div id="top-search">
+                        <a href="#" id="top-search-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a>
+                                                        <form action="/search" enctype="application/x-www-form-urlencoded" method="post">
+                                    <input type="text" name="q" class="form-control" value="" placeholder="搜索网站内容关键字 ...">
+                                </form>
+                            
+                                            </div>
+                    <!-- #top-search end -->
+
+                </nav>
+                <!-- #primary-menu end -->
+            </div>
+                    </div>
+
+    </header><!-- #header end -->
+        
+        
+        
+        
+        
+        
+        
+        <!-- Content ============================================= -->
+        <section id="content">
+            <div class="content-wrap">
+                <div class="section indienova-title-bg" style="background-image: url('https://hive.indienova.com/farm/article/headpic/2019/11/head-8136Vo-Guide-2019-11-11-11-14.jpg');" data-stellar-background-ratio="2" data-stellar-vertical-offset="185">
+    <div class="container text-center clearfix">
+        <h1 class="big">本周 Steam 值得关注的游戏 11.11-11.17（上）</h1>
+
+        <!-- 文章顶部信息 -->
+        <span class="header-info">作者：<a href="/u/game">游戏发现 <sup><i class="icon-star3"></i></sup></a>
+            <br />2019-11-11<br />
+                            <small>
+                    
+                                                <i class="icon-thumbs-up2"></i> <a href="/get/login" data-lightbox="ajax" data-toggle="tooltip" data-placement="bottom" title="点赞"><span class="number-first">10</span></a>
+                        
+                    
+                                                <i class="icon-bookmark-empty"></i> <a href="/get/login" data-lightbox="ajax" data-toggle="tooltip" data-placement="bottom" title="收藏"><span class="number-first">0</span></a>
+                        
+                                        <i class="icon-comments-alt"></i> <a href="#comments" data-toggle="tooltip" data-placement="bottom" title="点击查看评论"><span class="number-last">1</span></a>
+                </small>
+            
+            
+        </span>
+        <!-- End of 文章顶部信息 -->
+
+    </div>
+    <div class="overlay"></div>
+</div>
+<div class="container">
+
+    <!-- CONTENT BODY -->
+    <div class="postcontent clearfix indienova-post-content">
+        <article class="clearfix">
+            <div class="single-post indienova-single-post fr-view">
+                <p>本周游戏数量还是比较多的，非独立游戏数量也不少，我们重点推荐的有国内团队的《<a href="https://indienova.com/game/zhan-yao-raksasi" rel="noopener noreferrer" target="_blank">斩妖 Raksasi</a>》、《南瓜先生 2：九龙城寨》，以及《<a href="https://indienova.com/game/sparklite" rel="noopener noreferrer" target="_blank">烁石物语（Sparklite）</a>》、《<a href="https://indienova.com/game/blacksad-under-the-skin" rel="noopener noreferrer" target="_blank">黑猫侦探（Blacksad: Under the Skin）</a>》等，不过其它的也都值得关注，赶紧开始浏览吧！</p><h4>Gun Crazy</h4><p>关键字：平台动作、女性主角</p><p>发行日期：2019/11/12（<strong>中文支持</strong>）</p><p>快节奏的复古动作射击游戏，有着粗粝的像素风格和复古的音轨。</p><p>玩法不用多说了，想办法以优异的分数通过每一关吧。</p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-gun-crazy5678XZ.gif" class="fr-fic fr-dib" data-id="16178" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-gun-crazy-15700th.jpg" class="fr-fic fr-dib" data-id="16179" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-gun-crazy-25710X3.jpg" class="fr-fic fr-dib" data-id="16180" data-result="success" class="aligncenter"></p><p class="hidden-xs"><iframe src="https://store.steampowered.com/widget/897640/" frameborder="0" style="width: 100%; height: 220px;"></iframe></p><h4>ArtFormer the Game</h4><p>关键字：动作、冒险、艺术</p><p>发行日期：2019/11/12（暂无中文）EA</p><p>虽然并不能判断游戏到底好不好玩，但是这款游戏的美术有着比较特别的设定。</p><p>游戏本身是平台动作游戏，但是游戏的美术贯穿四个时代，从岩画、埃及、希腊直到罗马时代。可以说开发者还是蛮有想法和野心的，不妨关注下。</p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Artformer5768b8.gif" class="fr-fic fr-dib" data-id="16181" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-artformer-15797vs.jpg" class="fr-fic fr-dib" data-id="16182" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-artformer-258065T.jpg" class="fr-fic fr-dib" data-id="16183" data-result="success" class="aligncenter"></p><p class="hidden-xs"><iframe src="https://store.steampowered.com/widget/1144090/" frameborder="0" style="width: 100%; height: 220px;"></iframe></p><h4>Devil Slayer - Raksasi / 斩妖 Raksasi</h4><p>关键字：动作、暴力、Rogue-lite、<strong>国内团队</strong></p><p>发行日期：2019/11/13（<strong>中文支持</strong>）EA</p><p>《斩妖 Raksasi》是一款带有 Roguelike 元素的顶视角随机生成地牢动作游戏。战斗采用种类丰富的近战武器，并结合随机多变的各种道具和秘宝。战斗比较偏向魂类的硬核朴实风格，重视走位、攻击距离和时机把握。</p><p>边境疆土相争战事不断，各地天灾人祸起义叛乱，妖兽暴动为害民众，魔族反扑蠢蠢欲动。在这千苍百孔的土地上，有一帮人想破除黑暗，把世界推向光明。他们创造了轮回试炼，让天选之人在不断轮回中，找出拯救世界的关键钥匙。</p><p>这次会进入 EA 抢先体验，目前精心打造了六位女主角，六个系列三十七把武器，每把武器都有自己独特的操作和战斗体验。还制作了 6 个章节，150 种敌人，150 种秘宝。后面还会不断更新。</p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-raksasi6270hv.gif" class="fr-fic fr-dib" data-id="16208" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-raksasi-15852H0.jpg" class="fr-fic fr-dib" data-id="16184" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-raksasi-258610Z.jpg" class="fr-fic fr-dib" data-id="16185" data-result="success" class="aligncenter"></p><p class="hidden-xs"><iframe src="https://store.steampowered.com/widget/1016600/" frameborder="0" style="width: 100%; height: 220px;"></iframe></p><h4>Mr. Pumpkin 2: Kowloon Walled City（南瓜先生 2：九龙城寨）</h4><p>关键字：冒险、<strong>国内团队</strong></p><p>发行日期：2019/11/13（<strong>中文支持</strong>）有延期可能</p><p>《南瓜先生 2：九龙城寨》是南瓜先生系列作品的续作。以南瓜头形象的小人物为主人公，讲述一些曾经居住在香港贫民窟九龙城寨的人和他们的故事。背景采用了真实香港历史场景的美术复原,对香港电影故事的致敬和拓展。</p><p>九龙城寨是香港殖民时代的一座围城，内里有蛛网般的道路，破败密集的高耸楼宇，压迫感的霓虹招牌，不见天日的狭窄暗巷，视觉上的独特性，麻雀虽小五脏俱全，一个人间地狱，一个乌托邦。游戏内用缆车、双层巴士，铛铛车等香港传统的交通工具衔接起各个游戏章节，让玩家能体会到一种观看城寨版《清明上河图》的感觉。</p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Pumpkin6294Xn.gif" class="fr-fic fr-dib" data-id="16209" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Pumpkin-15875wT.jpg" class="fr-fic fr-dib" data-id="16186" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Pumpkin-25889vo.jpg" class="fr-fic fr-dib" data-id="16187" data-result="success" class="aligncenter"></p><p class="hidden-xs"><iframe src="https://store.steampowered.com/widget/1182090/" frameborder="0" style="width: 100%; height: 220px;"></iframe></p><h4>DRAW CHILLY</h4><p>关键字：冒险、角色扮演、选择取向、多结局、网红</p><p>发行日期：2019/11/13（<strong>中文支持</strong>）</p><p>DRAW CHILLY 是一款地狱场景的街机游戏，游戏中，你将扮演弗拉基米尔的角色，并应雇主天启四骑士的要求，将城市从炼狱的深渊中拯救出来。</p><p>弗拉基米尔带领一群勇敢、真诚但有点倒霉的机械师们与猴子们展开战斗，同时一关一关往上爬，打败那些误入炼狱的 Boss 并交给地狱使者，这样它们就会被送到属于它们的地狱。</p><p>随着城市升级并提升弗拉基米尔及其战队的战斗力，你将揭开每个主要敌人的背景，看到弗拉基米尔的过去，并见到四骑士。他们在这个宇宙中既善良，又很有幽默感。</p><p>这款 2D 像素街机游戏让你能够随心所欲地在地图上左右奔跑，但这还不是全部！它还有其他更重要的特色。</p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Draw-chilly6319vE.gif" class="fr-fic fr-dib" data-id="16210" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-draw-chilly-15903qK.jpg" class="fr-fic fr-dib" data-id="16188" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-draw-chilly-25912NE.jpg" class="fr-fic fr-dib" data-id="16189" data-result="success" class="aligncenter"></p><p class="hidden-xs"><iframe src="https://store.steampowered.com/widget/839080/" frameborder="0" style="width: 100%; height: 220px;"></iframe></p><h4>Unity of Command II（统一指挥 II）</h4><p>关键字：二战、战争、模拟、策略、历史</p><p>发行日期：2019/11/13（暂无中文）</p><p>《统一指挥 II》是迄今最受好评的战略游戏之一的续集，一名游戏评论家甚至称之为电脑战争游戏的“完美入门作品”。</p><p>该游戏以全新的定制 3D 引擎创建，保留了《统一指挥》（Unity of Command）的标志性艺术风格，提供极致流畅的游戏玩法。《统一指挥 II》是一款备受期待的经典小众游戏的续集，易于入门但难以精通。自 2011 年以来，这款游戏已经将无数新手玩家淬炼为久经沙场的老将。</p><p>《统一指挥 II》让你在第二次世界大战中指挥西方盟国。你将管理军队各师及其供给和后勤。在《统一指挥》中，你也将第一次面对“战争迷雾”。通过俘获敌军士兵并启动侦察来收集敌军阵地的情报，从而揭露未知的敌情。敌方装甲部队会设法抓住你部队的散兵游勇，重新整编并发起反击！</p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-unity-of-command-ii6347XI.gif" class="fr-fic fr-dib" data-id="16211" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Unity-of-Command-ii-15926En.jpg" class="fr-fic fr-dib" data-id="16190" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Unity-of-Command-ii-259354P.jpg" class="fr-fic fr-dib" data-id="16191" data-result="success" class="aligncenter"></p><p class="hidden-xs"><iframe src="https://store.steampowered.com/widget/809230/" frameborder="0" style="width: 100%; height: 220px;"></iframe></p><h4>Thief Simulator VR（小偷模拟器 VR）</h4><p>关键字：VR、模拟、沙盒、开放世界</p><p>发行日期：2019/11/13（<strong>中文支持</strong>）EA</p><p>之前的 Thief Simulator（小偷模拟器）获得了不错的成绩，于是，体验升级，这次发行的是虚拟现实版本。</p><p>做个真正的贼。你可以自由地在沙盒街区闲逛偷东西。观察你的目标，收集能帮你行窃的信息。接受挑战，扫荡最安全的房子。买高科技盗贼装备，学新的手法。把货卖给当铺。做所有真贼能做的事！</p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Thief8961x1.gif" data-id="16177" class="fr-fic fr-dib" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Thief-15949oF.jpg" class="fr-fic fr-dib" data-id="16192" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Thief-25957yq.jpg" class="fr-fic fr-dib" data-id="16193" data-result="success" class="aligncenter"></p><p class="hidden-xs"><iframe src="https://store.steampowered.com/widget/704850/" frameborder="0" style="width: 100%; height: 220px;"></iframe></p><h4>The Legend of Bum-Bo</h4><p>关键字：Rogue-lite、策略、解谜</p><p>发行日期：2019/11/13（暂无中文）</p><p>Edmund McMillen（E 胖）的新游戏，恐怕您不能错过吧？</p><p>更别提，这还是 The Binding of Isaac 前传性质的卡牌游戏，角色也都是硬纸板造型，美术还是我们一贯熟悉的风格，相信很多人会控制不住自己想要剁掉的手吧。</p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Bum-Bo6373Ef.gif" class="fr-fic fr-dib" data-id="16212" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Bm-Bo-16008Wf.jpg" class="fr-fic fr-dib" data-id="16194" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Bm-Bo-26016hH.jpg" class="fr-fic fr-dib" data-id="16195" data-result="success" class="aligncenter"></p><p class="hidden-xs"><iframe src="https://store.steampowered.com/widget/1148650/" frameborder="0" style="width: 100%; height: 220px;"></iframe></p><h4>Wildermyth</h4><p>关键字：角色扮演、策略、剧情丰富、程序生成</p><p>发行日期：2019/11/13（暂无中文）EA</p><p><em>Wildermyth</em> 是一款角色驱动、具有程序生成元素的策略 RPG。像其它的桌面角色扮演游戏一样，每一次玩家为自己的角色做出的决定都会产生相应的后果。</p><p>玩家要带领一队传奇英雄，对抗未知的威胁和怪兽。在这个过程中展开自己的神话历险。</p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Wildermyth6399Ki.gif" class="fr-fic fr-dib" data-id="16213" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Wildermyth-16026pO.jpg" class="fr-fic fr-dib" data-id="16196" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Wildermyth-26033bV.jpg" class="fr-fic fr-dib" data-id="16197" data-result="success" class="aligncenter"></p><p class="hidden-xs"><iframe src="https://store.steampowered.com/widget/763890/" frameborder="0" style="width: 100%; height: 220px;"></iframe></p><h4>Some Distant Memory（久远的记忆）</h4><p>关键字：末日、剧情丰富、女性主角、步行模拟</p><p>发行日期：2019/11/14（<strong>中文支持</strong>）</p><p>《久远的记忆》是一款故事性探险游戏。</p><p>您将扮演教授，参加一次寻找休斯顿陷落之城的任务。地球上仅存的几块人类属地境况越来越糟糕，他们的资源日渐减少，腐蚀性的藻华威胁着所有存留在世的人和物。多年来你一直系统性地在废墟里探寻，却没有找到任何遗迹的踪影。你此次任务的主要伙伴是欧若拉和指挥官，欧若拉是一台大崩塌灾难发生之后充当人类引路明灯的人工智能，指挥官是一名奉命护你周全的探险家。</p><p>当你掉进一栋古屋的废墟之中后，一切都发生了变化。随着探索的深入，曾经在房中居住的人们的记忆在欧若拉的记忆重建系统的帮助下得以再现。揭开文明所遭变故的蛛丝马迹，找到奇异的人工制品，发现你闯入其墓穴的家族的秘密。</p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Some-Distant-Memory6425nC.gif" class="fr-fic fr-dib" data-id="16214" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Some-Distant-memory-16045Y4.jpg" class="fr-fic fr-dib" data-id="16198" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Some-Distant-memory-26053EH.jpg" class="fr-fic fr-dib" data-id="16199" data-result="success" class="aligncenter"></p><p class="hidden-xs"><iframe src="https://store.steampowered.com/widget/824850/" frameborder="0" style="width: 100%; height: 220px;"></iframe></p><h4>Deadliest Catch: The Game</h4><p>关键字：开放世界、钓鱼、冒险、模拟</p><p>发行日期：2019/11/14（暂无中文）</p><p>在这款游戏中，您将在危险的白令海上捕捉帝王蟹！</p><p>控制自己的船，使用真实的装备，应对各种水面和水下的危险，努力成为世界著名的捕蟹人。</p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Deadlist-Catch6453HE.gif" class="fr-fic fr-dib" data-id="16215" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Deadlist-catch-16063CJ.jpg" class="fr-fic fr-dib" data-id="16200" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Deadlist-catch-26071z6.jpg" class="fr-fic fr-dib" data-id="16201" data-result="success" class="aligncenter"></p><p class="hidden-xs"><iframe src="https://store.steampowered.com/widget/838630/" frameborder="0" style="width: 100%; height: 220px;"></iframe></p><h4>NABOKI</h4><p>关键字：极简主义、休闲、解谜</p><p>发行日期：2019/11/14（暂无中文）</p><p><em>NABOKI</em> 是一款极简化风格的益智解谜游戏。</p><p>游戏非常简洁，没有教程也没有分数或者文字，让玩家在放松的状态下惬意的解谜。</p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-naboki64703a.gif" class="fr-fic fr-dib" data-id="16216" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-naboki-16083LZ.jpg" class="fr-fic fr-dib" data-id="16202" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-naboki-260892c.jpg" data-id="16203" class="fr-fic fr-dib" class="aligncenter"></p><p class="hidden-xs"><iframe src="https://store.steampowered.com/widget/1177130/" frameborder="0" style="width: 100%; height: 220px;"></iframe></p><h4>Soko Loco Deluxe</h4><p>关键字：模拟、策略、交通、城市建设</p><p>发行日期：2019/11/14（暂无中文）</p><p><em>Soko Loco Deluxe</em> 是一款小巧玲珑的列车大亨类游戏。</p><p>玩家在游戏中需要输送资源、建设城镇，然后建立一个巨大的纪念碑！</p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Soko-Loco6499Cr.gif" class="fr-fic fr-dib" data-id="16217" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Soko-Loco-16183hR.jpg" class="fr-fic fr-dib" data-id="16204" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Soko-Loco-26193k8.jpg" class="fr-fic fr-dib" data-id="16205" data-result="success" class="aligncenter"></p><p class="hidden-xs"><iframe src="https://store.steampowered.com/widget/1003730/" frameborder="0" style="width: 100%; height: 220px;"></iframe></p><h4>The Curious Tale of the Stolen Pets</h4><p>关键字：冒险、休闲、VR</p><p>发行日期：2019/11/14（<strong>中文支持</strong>）</p><p>体验一个孩子般奇妙的互动故事！ 通过探索从头开始为 VR 制作的精彩微缩世界，帮助你的祖父解决被盗宠物之谜。</p><p>在寒冬的景致中使用吹风机融化冰雪！搜索部分隐藏在水面之下的海盗船残骸！每个世界都独一无二，充满了互动和丰富多彩的生活。</p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Curious-Tale65268o.gif" class="fr-fic fr-dib" data-id="16218" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Curious-Tale-16205Si.jpg" class="fr-fic fr-dib" data-id="16206" data-result="success" class="aligncenter"></p><p><img src="https://hive.indienova.com/farm/article/picture/2019/11/pic-Curious-Tale-26213kE.jpg" class="fr-fic fr-dib" data-id="16207" data-result="success" class="aligncenter"></p><p class="hidden-xs"><iframe src="https://store.steampowered.com/widget/1099500/" frameborder="0" style="width: 100%; height: 220px;"></iframe></p><h4>下半部分</h4><p>本周的下半部分内容也不少，明日奉上，不要错过！</p><div class="text-center"><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="290" height="450" src="https://indienova.com/widget/indie-game-news/guide19-1111-1117-part-2/"></iframe></div>
+            </div>
+        </article>
+    </div>
+
+    <!-- CONTENT SIDEBAR -->
+            <div class="sidebar col_last blog-sidebar">
+            <div id="side-title-image" class="hidden-xs hidden-sm hidden-ms">
+                <img src="https://hive.indienova.com/farm/article/headpic/2019/11/head-8136Vo-Guide-2019-11-11-11-14.jpg" class="title-image img-responsive">
+            </div>
+        </div>
+    </div>
+
+<div id="indienova-misc">
+
+    <!-- 评价 -->
+    
+    <div class="container">
+        <div class="postcontent clearfix indienova-post-content">
+
+            
+                <!-- 赞和收藏 -->
+                <div class="row clearfix">
+                    <div class="col-xs-12 col-md-1"></div>
+
+                    <div class="col-xs-12 col-md-10">
+
+                        <div class="col_half">
+                            <div class="article-action">
+                                <a href="/get/login" data-lightbox="ajax" class="thumb-vote" data-id="5228" data-type="5" data-path="/indie-game-news/guide19-1111-1117-part-1/" data-title="本周 Steam 值得关注的游戏 11.11-11.17（上）">
+                                    <div class="icon"><i class="icon-thumbs-up"></i></div>
+                                    <div class="info">赞这篇文章</div>
+                                    <div class="count">10</div>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col_half col_last">
+                            <div class="article-action">
+                                <a href="/get/login" data-lightbox="ajax" class="fav-vote" data-id="5228" data-type="1" data-path="/indie-game-news/guide19-1111-1117-part-1/" data-title="本周 Steam 值得关注的游戏 11.11-11.17（上）">
+                                    <div class="icon"><i class="icon-bookmark-empty"></i></div>
+                                    <div class="info">收藏这篇文章</div>
+                                    <div class="count">0</div>
+                                </a>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="col-xs-12 col-md-1"></div>
+                </div>
+                <!-- End of 赞和收藏 -->
+
+            
+            <!-- 投稿 -->
+            
+            <!-- 点赞会员 -->
+                            <div class="liked-users-holder">
+                    <h4>近期点赞的会员</h4>
+                    <div class="icons">
+                                                    <a href="/u/geyax94" class="" data-toggle="tooltip" data-placement="top" title="geyax94" target="_blank"><img src="https://cn.gravatar.com/avatar/270bdf19b44cef5c2766c78a7e0eb910?d=retro&amp;s=100" class="img-circle" width="40" height="40"></a>
+                                                                                <a href="/u/superbug" class="" data-toggle="tooltip" data-placement="top" title="Superbug" target="_blank"><img src="https://cn.gravatar.com/avatar/42eee605e430c1062faccbc3d126232b?d=retro&amp;s=100" class="img-circle" width="40" height="40"></a>
+                                                                                <a href="/u/callofasa" class="" data-toggle="tooltip" data-placement="top" title="阿撒" target="_blank"><img src="https://hive.indienova.com/farm/avatar/2019/12/a-5472853-Ofh39SjOx300.jpg_rect200" class="img-circle" width="40" height="40"></a>
+                                                                                <a href="/u/douyutv3843629" class="" data-toggle="tooltip" data-placement="top" title="DouYuTV3843629" target="_blank"><img src="https://hive.indienova.com/farm/avatar/2019/04/a-4616607-0KKhc9BWx300.jpg_rect200" class="img-circle" width="40" height="40"></a>
+                                                                                <a href="/u/hailun2008" class="" data-toggle="tooltip" data-placement="top" title="浑身难受" target="_blank"><img src="https://hive.indienova.com/farm/avatar/2015/550x300.jpg_rect200" class="img-circle" width="40" height="40"></a>
+                                                            <a href="javascript:void(0);" id="moreLikedUsers" title="查看全部"><img src="https://static.indienova.com/assets/images/icons/more.png" class="img-circle" width="40" height="40"></a>
+                                                                                <a href="/u/erufu" class="hidden-user" data-toggle="tooltip" data-placement="top" title="Erufu" target="_blank"><img src="https://hive.indienova.com/farm/avatar/2015/4162x300.jpg_rect200" class="img-circle" width="40" height="40"></a>
+                                                                                <a href="/u/purestudio" class="hidden-user" data-toggle="tooltip" data-placement="top" title="Codinggamer" target="_blank"><img src="https://cn.gravatar.com/avatar/e8e034bff3d372dcce95914a652d467d?d=retro&amp;s=100" class="img-circle" width="40" height="40"></a>
+                                                                                <a href="/u/ansder" class="hidden-user" data-toggle="tooltip" data-placement="top" title="锦冽" target="_blank"><img src="https://hive.indienova.com/farm/avatar/2019/10/w/jLZC47-1570594612x300.jpg_rect200" class="img-circle" width="40" height="40"></a>
+                                                                                <a href="/u/unfun" class="hidden-user" data-toggle="tooltip" data-placement="top" title="unfun" target="_blank"><img src="https://cn.gravatar.com/avatar/f2838112c2c4dae109819113062a65f2?d=retro&amp;s=100" class="img-circle" width="40" height="40"></a>
+                                                                                <a href="/u/z654599178" class="hidden-user" data-toggle="tooltip" data-placement="top" title="尼普顿" target="_blank"><img src="https://hive.indienova.com/farm/avatar/2019/02/a-1262147-qEncBIR6x300.jpg_rect200" class="img-circle" width="40" height="40"></a>
+                                                                        </div>
+                    <div class="clearfix"></div>
+                </div>
+            
+            <!-- 相关 GameDB 游戏 -->
+            
+            <!-- 分享 -->
+                            <div class="si-share clearfix">
+                    <span><i class="icon-share"></i> &nbsp;分享这篇文章</span>
+                    <div>
+                        <a href="http://service.weibo.com/share/share.php?title=%E6%9C%AC%E5%91%A8+Steam+%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8%E7%9A%84%E6%B8%B8%E6%88%8F+11.11-11.17%EF%BC%88%E4%B8%8A%EF%BC%89%EF%BC%9A%E6%9C%AC%E5%91%A8%E6%B8%B8%E6%88%8F%E6%95%B0%E9%87%8F%E8%BF%98%E6%98%AF%E6%AF%94%E8%BE%83%E5%A4%9A%E7%9A%84%EF%BC%8C%E9%9D%9E%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E6%95%B0%E9%87%8F%E4%B9%9F%E4%B8%8D%E5%B0%91%EF%BC%8C%E6%88%91%E4%BB%AC%E9%87%8D%E7%82%B9%E6%8E%A8%E8%8D%90%E7%9A%84%E6%9C%89%E5%9B%BD%E5%86%85%E5%9B%A2%E9%98%9F%E7%9A%84%E3%80%8A%E6%96%A9%E5%A6%96+Raksasi%E3%80%8B%E3%80%81%E3%80%8A%E5%8D%97%E7%93%9C%E5%85%88%E7%94%9F+2%EF%BC%9A%E4%B9%9D%E9%BE%99%E5%9F%8E%E5%AF%A8%E3%80%8B%EF%BC%8C%E4%BB%A5%E5%8F%8A%E3%80%8A%E7%83%81%E7%9F%B3%E7%89%A9%E8%AF%AD%EF%BC%88Sparklite%EF%BC%89%E3%80%8B%E3%80%81%E3%80%8A%E9%BB%91%E7%8C%AB%E4%BE%A6%E6%8E%A2%EF%BC%88Blacksad%3A+Under+the+Skin%EF%BC%89%E3%80%8B%E7%AD%89%E3%80%82&url=https://indienova.com/indie-game-news/guide19-1111-1117-part-1/" class="social-icon si-borderless si-weibo" data-toggle="tooltip" data-placement="top" title="分享到新浪微博" target="_blank">
+                            <i class="icon-cn-weibo"></i><i class="icon-cn-weibo"></i>
+                        </a>
+                        <a href="/inc/qr.php?url=https://indienova.com/indie-game-news/guide19-1111-1117-part-1/" data-lightbox="image" class="social-icon si-borderless si-wechat" data-toggle="tooltip" data-placement="top" title="分享到微信" target="_blank">
+                            <i class="icon-cn-wechat"></i><i class="icon-cn-wechat"></i>
+                        </a>
+                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://indienova.com/indie-game-news/guide19-1111-1117-part-1/" class="social-icon si-borderless si-facebook" data-toggle="tooltip" data-placement="top" title="分享到 Facebook" target="_blank">
+                            <i class="icon-facebook"></i><i class="icon-facebook"></i>
+                        </a>
+                        <a href="https://twitter.com/intent/tweet?source=webclient&original_referer=https://indienova.com/indie-game-news/guide19-1111-1117-part-1/&text=%E6%9C%AC%E5%91%A8+Steam+%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8%E7%9A%84%E6%B8%B8%E6%88%8F+11.11-11.17%EF%BC%88%E4%B8%8A%EF%BC%89%EF%BC%9A%E6%9C%AC%E5%91%A8%E6%B8%B8%E6%88%8F%E6%95%B0%E9%87%8F%E8%BF%98%E6%98%AF%E6%AF%94%E8%BE%83%E5%A4%9A%E7%9A%84%EF%BC%8C%E9%9D%9E%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E6%95%B0%E9%87%8F%E4%B9%9F%E4%B8%8D%E5%B0%91%EF%BC%8C%E6%88%91%E4%BB%AC%E9%87%8D%E7%82%B9%E6%8E%A8%E8%8D%90%E7%9A%84%E6%9C%89%E5%9B%BD%E5%86%85%E5%9B%A2%E9%98%9F%E7%9A%84%E3%80%8A%E6%96%A9%E5%A6%96+Raksasi%E3%80%8B%E3%80%81%E3%80%8A%E5%8D%97%E7%93%9C%E5%85%88%E7%94%9F+2%EF%BC%9A%E4%B9%9D%E9%BE%99%E5%9F%8E%E5%AF%A8%E3%80%8B%EF%BC%8C%E4%BB%A5%E5%8F%8A%E3%80%8A%E7%83%81%E7%9F%B3%E7%89%A9%E8%AF%AD%EF%BC%88Sparklite%EF%BC%89%E3%80%8B%E3%80%81%E3%80%8A%E9%BB%91%E7%8C%AB%E4%BE%A6%E6%8E%A2%EF%BC%88Blacksad%3A+Under+the+Skin%EF%BC%89%E3%80%8B%E7%AD%89%E3%80%82&url=https://indienova.com/indie-game-news/guide19-1111-1117-part-1/&related=indienovacn&via=indienovacn" class="social-icon si-borderless si-twitter" data-toggle="tooltip" data-placement="top" title="分享到 Twitter" target="_blank">
+                            <i class="icon-twitter"></i><i class="icon-twitter"></i>
+                        </a>
+                        <a href="http://www.linkedin.com/shareArticle?mini=true&ro=true&trk=indienovaPostSharer&title=%E6%9C%AC%E5%91%A8+Steam+%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8%E7%9A%84%E6%B8%B8%E6%88%8F+11.11-11.17%EF%BC%88%E4%B8%8A%EF%BC%89%EF%BC%9A%E6%9C%AC%E5%91%A8%E6%B8%B8%E6%88%8F%E6%95%B0%E9%87%8F%E8%BF%98%E6%98%AF%E6%AF%94%E8%BE%83%E5%A4%9A%E7%9A%84%EF%BC%8C%E9%9D%9E%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E6%95%B0%E9%87%8F%E4%B9%9F%E4%B8%8D%E5%B0%91%EF%BC%8C%E6%88%91%E4%BB%AC%E9%87%8D%E7%82%B9%E6%8E%A8%E8%8D%90%E7%9A%84%E6%9C%89%E5%9B%BD%E5%86%85%E5%9B%A2%E9%98%9F%E7%9A%84%E3%80%8A%E6%96%A9%E5%A6%96+Raksasi%E3%80%8B%E3%80%81%E3%80%8A%E5%8D%97%E7%93%9C%E5%85%88%E7%94%9F+2%EF%BC%9A%E4%B9%9D%E9%BE%99%E5%9F%8E%E5%AF%A8%E3%80%8B%EF%BC%8C%E4%BB%A5%E5%8F%8A%E3%80%8A%E7%83%81%E7%9F%B3%E7%89%A9%E8%AF%AD%EF%BC%88Sparklite%EF%BC%89%E3%80%8B%E3%80%81%E3%80%8A%E9%BB%91%E7%8C%AB%E4%BE%A6%E6%8E%A2%EF%BC%88Blacksad%3A+Under+the+Skin%EF%BC%89%E3%80%8B%E7%AD%89%E3%80%82&url=https://indienova.com/indie-game-news/guide19-1111-1117-part-1/" class="social-icon si-borderless si-linkedin" data-toggle="tooltip" data-placement="top" title="分享到 Linkedin" target="_blank">
+                            <i class="icon-linkedin"></i><i class="icon-linkedin"></i>
+                        </a>
+                    </div>
+                </div>
+                    </div>
+    </div>
+
+    <!-- Author -->
+    <div class="container">
+        <div class="postcontent clearfix indienova-related">
+            <div class="indienova-author topmargin-sm">
+                                    <div class="verified-star"><i class="icon-star3"></i></div>
+                                <img src="https://hive.indienova.com/farm/avatar/2015/270x300.jpg" class="img-circle" width="100" height="100">
+                <h3><a href="/u/game">游戏发现</a>&nbsp;
+                    <!-- Single button -->
+                    <div class="btn-group">
+                        <button type="button" class="btn btn-default btn-xs dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            作者 <span class="caret"></span>
+                        </button>
+                        <ul class="dropdown-menu">
+                            <li><a href="/u/game"> <i class="icon-line2-user"></i> 查看作者主页</a></li>
+                            <li><a href="/author/game/"> <i class="icon-line2-notebook"></i> 查看作者文章</a></li>
+                        </ul>
+                    </div>
+                </h3>
+                <p>游戏发现者@indienova&nbsp;</p>
+                <div class="author-social bottommargin-sm">
+                                    </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+                    <div class="sidebar col_last blog-sidebar">
+                                    <h5 class="topmargin-sm"><i class="icon-line-paper-stack"></i> 收录于专题</h5>
+                    <div class="mini-block">
+                        <ul>
+                                                    <li><a href="/column/29">一周值得关注的作品</a></li>
+                                                </ul>
+                    </div>
+                            </div>
+            </div>
+    <!-- End of Author -->
+
+    <!-- Related -->
+    <div class="bottommargin-sm indienova-title-mini">
+        <div class="container clearfix">
+            <h1>您可能还会对这些文章感兴趣</h1>
+        </div>
+    </div>
+    <div class="container">
+        <div class="postcontent clearfix indienova-related">
+            <div id="oc-portfolio" class="owl-carousel portfolio-carousel portfolio-notitle">
+
+                                    <div class="oc-item">
+                        <div class="iportfolio">
+                            <div class="portfolio-image">
+                                <a href="/indie-game-news/guide-213-219/">
+                                    <img src="https://hive.indienova.com/farm/article/headpic/2017/02/Guide-213-219.jpg_t205" alt="本周值得关注的发售作品 2.13-2.19">
+                                    <div class="portfolio-overlay"></div>
+                                </a>
+                            </div>
+                            <div class="portfolio-desc">
+                                <h3><a href="/indie-game-news/guide-213-219/" title="本周值得关注的发售作品 2.13-2.19">本周值得关注的发售作品 2.13-2.19</a></h3>
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="oc-item">
+                        <div class="iportfolio">
+                            <div class="portfolio-image">
+                                <a href="/indie-game-news/guide19-0902-0908-p1/">
+                                    <img src="https://hive.indienova.com/farm/article/headpic/2019/09/head-4962pD-Guide-92-95.jpg_t205" alt="本周 Steam 值得关注的游戏 9.2 - 9.8（上）">
+                                    <div class="portfolio-overlay"></div>
+                                </a>
+                            </div>
+                            <div class="portfolio-desc">
+                                <h3><a href="/indie-game-news/guide19-0902-0908-p1/" title="本周 Steam 值得关注的游戏 9.2 - 9.8（上）">本周 Steam 值得关注的游戏 9.2 - 9.8（上）</a></h3>
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="oc-item">
+                        <div class="iportfolio">
+                            <div class="portfolio-image">
+                                <a href="/indie-game-news/guide19-0902-0908-p2/">
+                                    <img src="https://hive.indienova.com/farm/article/headpic/2019/09/head-0842vR-Guide-92-98-2.jpg_t205" alt="本周 Steam 值得关注的游戏 9.2 - 9.8（下）">
+                                    <div class="portfolio-overlay"></div>
+                                </a>
+                            </div>
+                            <div class="portfolio-desc">
+                                <h3><a href="/indie-game-news/guide19-0902-0908-p2/" title="本周 Steam 值得关注的游戏 9.2 - 9.8（下）">本周 Steam 值得关注的游戏 9.2 - 9.8（下）</a></h3>
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="oc-item">
+                        <div class="iportfolio">
+                            <div class="portfolio-image">
+                                <a href="/indie-game-news/guide19-0909-0915-p1/">
+                                    <img src="https://hive.indienova.com/farm/article/headpic/2019/09/head-5477bC-Guide-9-9-9-10.jpg_t205" alt="本周 Steam 值得关注的游戏 9.9-9.15（上）">
+                                    <div class="portfolio-overlay"></div>
+                                </a>
+                            </div>
+                            <div class="portfolio-desc">
+                                <h3><a href="/indie-game-news/guide19-0909-0915-p1/" title="本周 Steam 值得关注的游戏 9.9-9.15（上）">本周 Steam 值得关注的游戏 9.9-9.15（上）</a></h3>
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="oc-item">
+                        <div class="iportfolio">
+                            <div class="portfolio-image">
+                                <a href="/indie-game-news/guide19-0909-0915-p2/">
+                                    <img src="https://hive.indienova.com/farm/article/headpic/2019/09/head-9668fD-Guide-9-11-9-15.jpg_t205" alt="本周 Steam 值得关注的游戏 9.9-9.15（下）">
+                                    <div class="portfolio-overlay"></div>
+                                </a>
+                            </div>
+                            <div class="portfolio-desc">
+                                <h3><a href="/indie-game-news/guide19-0909-0915-p2/" title="本周 Steam 值得关注的游戏 9.9-9.15（下）">本周 Steam 值得关注的游戏 9.9-9.15（下）</a></h3>
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="sidebar col_last blog-sidebar indienova-tags bottommargin-sm">
+                                                <span class="label label-info"><a href="/tag/guide/">Guide</a></span>
+                                    </div>
+    </div>
+
+
+
+    <!-- 评论 -->
+            <!--Comments-->
+        <a name="comments"></a>
+
+                    <div class="bottommargin-sm indienova-title-mini topmargin-sm">
+                <div class="container clearfix">
+                    <h1>参与此文章的讨论</h1>
+                </div>
+            </div>
+                <div class="container">
+            <div class="postcontent clearfix indienova-comments">
+                                    
+                        <ol class="commentlist clearfix">
+                                                            <li class="comment even thread-even depth-1" id="li-comment-33706">
+                                    <div id="comment-33706" class="comment-wrap clearfix">
+                                        <div class="comment-meta">
+                                            <div class="comment-author vcard">
+                                                <a href="/u/hailun2008">
+                                                    <span class="comment-avatar clearfix">
+                                                        <img src='https://hive.indienova.com/farm/avatar/2015/550x300.jpg_rect200' title="浑身难受" class='avatar avatar-60 photo avatar-default' height='60' width='60'/>
+                                                                                                                    <div class="verified-star"><i class="icon-star3"></i></div>
+                                                                                                            </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="comment-content clearfix">
+                                            <div class="comment-author">
+                                                                                                        <a href="/u/hailun2008">浑身难受</a>
+                                                                                                            
+                                                                                                <span>2019-11-11</span>
+                                            </div>
+
+                                            <p id="comment-html-33706">Soko Loco Deluxe的美术风格果然还是Sokpop的风味。</p>
+                                            
+                                            <!-- Comment Funcs -->
+                                            <div class="comment-func">
+                                                                                                        <a class="comment-hearts-link" href="/get/login" data-lightbox="ajax" data-title="顶一下" data-toggle="tooltip" data-placement="top" data-comment-id="33706"><i class="icon-heart-empty"></i> <span>0</span></a>
+                                                    
+                                                                                                <a class="comment-replying-link" href="#makeComment" data-comment-id="33706" data-at-id="浑身难受" data-at-uid="550" data-title="回复" data-toggle="tooltip" data-placement="top" title="回复"><i class="icon-reply"></i></a>
+                                            </div>
+                                            <!-- End of Comment Funcs -->
+
+                                        </div>
+                                        <div class="clear"></div>
+                                    </div>
+
+                                                                    </li>
+                                                    </ol>
+                        <!-- .commentlist end -->
+                    
+                                    <!-- Comment Form
+                ============================================= -->
+                <a name="makeComment"></a>
+                <div id="respond" class="clearfix">
+                                                <div class="text-center">
+                                <h4>您需要登录或者注册后才能发表评论</h4>
+                                                                    
+                                        <a href="/get/login" data-lightbox="ajax" class="button button-rounded button-reveal button-large button-green tright"><i class="icon-line2-ghost"></i><span>登录／注册</span></a>
+                                    
+                                                                </div>
+                        
+                    
+                </div><!-- #respond end -->
+            </div>
+
+            <div class="sidebar col_last">
+                            </div>
+        </div></div>
+<script src="https://static.indienova.com/assets/js/bootstrap-typeahead.min.js"></script>
+<div id="failed-message" data-notify-position="top-right" data-notify-type="error" data-notify-msg="<i class='icon-minus-sign'></i> 操作失败！请通知管理人员。"></div>
+<script>
+
+    var aid = '5228';
+
+    function pageJS() {
+        var w = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+        var bg = $('.indienova-title-bg');
+        if (w <= 991) {
+            bg.attr('data-stellar-vertical-offset', '226');
+        }
+
+        var h4s = $('.indienova-single-post h4');
+        if (h4s.length > 0) {
+            $('#side-title-image').after('<div class="scrollspy"><ul id="indienova-header-list" class="nav hidden-xs hidden-sm hidden-ms" data-spy="affix"></ul></div>');
+            if ($('.indienova-single-post').html().trim().substr(1, 2) != 'h4') {
+                $('.indienova-single-post').prepend('<h4>引言</h4>');
+            }
+
+            h4s = $('.indienova-single-post h4');
+            for(var i=0; i<h4s.length; i++) {
+                $(h4s[i]).attr('id', 'iah-' + i);
+                var title = ($(h4s[i]).html()).replace(/\'/g, "").replace(/\"/g, "");
+                title = title.replace(/<br>/g, " - ");
+                title = title.replace(/<small>/g, "");
+                title = title.replace(/<\/small>/g, "");
+                title = title.replace(/<strong>/g, "");
+                title = title.replace(/<\/strong>/g, "");
+                $('#indienova-header-list').append('<li><a href="#iah-' + i + '" title="' + title + '">' + $(h4s[i]).html() + '</a></li>');
+            }
+            $('#indienova-header-list').append('<li><a href="#comments" title="直接查看文章评论"><i class="icon-chat-2"></i> 文章评论</a><li>');
+
+            $('#indienova-header-list').affix({
+                offset: {
+                    top: $('#indienova-header-list').offset().top - 140,
+                    bottom: ($('footer').outerHeight(true) + $('#indienova-misc').outerHeight(true)) + 180
+                }
+            });
+        }
+
+        var ocPortfolio = $("#oc-portfolio");
+
+        ocPortfolio.owlCarousel({
+            margin: 20,
+            nav: true,
+            stagePadding: 50,
+            loop: 'true',
+            navText: ['<i class="icon-angle-left"></i>','<i class="icon-angle-right"></i>'],
+            autoplay: false,
+            autoplayHoverPause: true,
+            dots: false,
+            responsive:{
+            0:{ items:1 },
+            600:{ items:2 },
+            1000:{ items:3 }
+        }
+    });
+
+        /*
+                  */
+
+        /* spoiler */
+
+        $('.spoiler-div').on('click', function() {
+            $(this).find('.spoiler-content').removeClass('spoiler-content');
+            $(this).find('.spoiler-info').remove();
+            $(this).removeClass('spoiler-div');
+            $(this).unbind('click');
+        });
+
+        /* more users */
+        $('#moreLikedUsers').on('click', function() {
+            $(this).remove();
+            $('.hidden-user').removeClass('hidden-user');
+        });
+
+        /* more games */
+        $('#moreRelatedGames').on('click', function() {
+            $('.related-games-holder').find('div').removeClass('initHidden');
+            $(this).parent().parent().remove();
+        });
+    }
+</script>            </div>
+        </section><!-- #content end -->
+
+                <!-- Footer
+        ============================================= -->
+        <a name="footer"></a>
+        <footer id="footer" class="dark">
+
+            <div class="container">
+
+                <!-- Footer Widgets
+                ============================================= -->
+                <div class="footer-widgets-wrap clearfix">
+
+                    <div class="col_one_fourth">
+
+                        <div class="widget clearfix">
+
+                            <img src="https://static.indienova.com/assets/images/logos/indienova_footer_new.png" srcset="https://static.indienova.com/assets/images/logos/indienova_footer_new@2x.png 2x" alt="indeinova" class="footer-logo">
+
+                            <p class="nobottommargin">由喜爱<strong>独立游戏</strong>，追求游戏乐趣的我们建立于 <strong>2013</strong> 年。</p>
+
+                            <a href="http://weibo.com/indienova" class="social-icon si-small si-rounded topmargin-sm si-weibo" target="_blank">
+                                <i class="icon-cn-weibo"></i>
+                                <i class="icon-cn-weibo"></i>
+                            </a>
+
+                            <a href="https://static.indienova.com/assets/images/QR_WeChat-new.jpg" data-lightbox="image" class="social-icon si-small si-rounded topmargin-sm si-wechat" data-toggle="tooltip" data-placement="top" title="" data-original-title="微信号：indienova">
+                                <i class="icon-cn-wechat"></i>
+                                <i class="icon-cn-wechat"></i>
+                            </a>
+
+                            <a href="https://static.indienova.com/assets/images/QR_QQ_3.jpg" data-lightbox="image" class="social-icon si-small si-rounded topmargin-sm si-qq" data-toggle="tooltip" data-placement="top" title="" data-original-title="QQ 群：651728262, 484558766 (满), 438069902, 695554827">
+                                <i class="icon-cn-qq"></i>
+                                <i class="icon-cn-qq"></i>
+                            </a>
+
+                            <a href="http://zhuanlan.zhihu.com/indienova" class="social-icon si-small si-rounded topmargin-sm si-intensedebate" data-toggle="tooltip" data-placement="top" title="" data-original-title="知乎专栏" target="_blank">
+                                <i class="icon-cn-zhihu"></i>
+                                <i class="icon-cn-zhihu"></i>
+                            </a>
+
+                            <div class="clearfix"></div>
+
+                            <a href="http://steamcommunity.com/id/indienova/" class="social-icon si-small si-rounded notopmargin si-appstore" target="_blank">
+                                <i class="icon-steam"></i>
+                                <i class="icon-steam"></i>
+                            </a>
+
+                            <a href="https://www.facebook.com/Indienova-1689611754692764/" class="social-icon si-small si-rounded notopmargin si-facebook" target="_blank">
+                                <i class="icon-facebook"></i>
+                                <i class="icon-facebook"></i>
+                            </a>
+
+                            <a href="https://twitter.com/indienovacn" class="social-icon si-small si-rounded notopmargin si-twitter" target="_blank">
+                                <i class="icon-twitter"></i>
+                                <i class="icon-twitter"></i>
+                            </a>
+
+                            <a href="https://github.com/eastecho" class="social-icon si-small si-rounded notopmargin si-github" target="_blank">
+                                <i class="icon-github"></i>
+                                <i class="icon-github"></i>
+                            </a>
+
+                        </div>
+
+                                                    <p><br><small class="text-muted">ServerID: NOVA-MAIN</small></p>
+                        
+                    </div>
+
+                    <div class="col_one_fourth">
+
+                        <div class="widget widget_links clearfix">
+
+                            <h4>关注我们</h4>
+
+                            <div class="text-center">
+                                <img src="https://static.indienova.com/assets/images/QR_footer.png" width="120" height="120" class="footer-qr">
+                                <p><small>扫描二维码关注微信公众号</small></p>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="col_one_fourth">
+
+                        <div class="widget widget_links clearfix">
+
+                            <h4>容易错过的内容</h4>
+
+                            <ul>
+                                <li><a href="/usergames">会员开发的游戏</a></li>
+                                <li><a href="/sp/gameDevResource">游戏开发资源大全</a></li>
+                                <li><a href="/steam/recommended">推荐的 Steam 游戏</a></li>
+                                <li><a href="/steam/mustbuy">必买的 Steam 游戏</a></li>
+                                <li><a href="/blogs/all">会员日志／DevLog</a></li>
+                                <li><a href="/resource">游戏开发素材</a></li>
+                                <li><a href="/corp/gutenberg">游戏古登堡计划</a></li>
+                                <li><a href="/corp/contribute">向 indienova 投稿</a></li>
+                            </ul>
+
+                        </div>
+
+                    </div>
+
+                    <div class="col_one_fourth col_last">
+
+                        <div class="widget quick-contact-widget clearfix">
+
+                            <h4>快速联系我们</h4>
+
+                            <div id="quick-contact-form-result" data-notify-type="success" data-notify-msg="<i class=icon-ok-sign></i> 信息已经成功发送！"></div>
+
+                            <form id="quick-contact-form" name="quick-contact-form" action="/func/quickcontact" method="post" class="quick-contact-form nobottommargin">
+
+                                <div class="form-process"></div>
+
+                                                                        <p>您可以<a href="/get/login" data-lightbox="ajax"><strong>注册／登录</strong></a>后再发送信息，以便我们直接通过站内私信快速联系您。</p>
+                                        <div class="input-group divcenter">
+                                            <span class="input-group-addon"><i class="icon-user"></i></span>
+                                            <input type="text" class="required form-control input-block-level" id="quick-contact-form-name" name="quick-contact-form-name" value="" placeholder="您的名字" />
+                                        </div>
+                                        <div class="input-group divcenter">
+                                            <span class="input-group-addon"><i class="icon-email3"></i></span>
+                                            <input type="text" class="required form-control email input-block-level" id="quick-contact-form-email" name="quick-contact-form-email" value="" placeholder="邮件地址" />
+                                        </div>
+                                    
+                                
+                                <textarea class="required form-control input-block-level short-textarea" id="quick-contact-form-message" name="quick-contact-form-message" rows="4" cols="30" placeholder="信息"></textarea>
+                                <input type="text" class="hidden" id="quick-contact-form-botcheck" name="quick-contact-form-botcheck" value="" />
+                                <button type="submit" id="quick-contact-form-submit" name="quick-contact-form-submit" class="btn btn-danger nomargin" value="submit">发送信息</button>
+
+                            </form>
+
+                            <script type="text/javascript">
+
+                                $("#quick-contact-form").validate({
+                                    submitHandler: function(form) {
+                                        $(form).animate({ opacity: 0.4 });
+                                        $(form).find('.form-process').fadeIn();
+                                        $(form).ajaxSubmit({
+                                            target: '#quick-contact-form-result',
+                                            success: function() {
+                                                $(form).animate({ opacity: 1 });
+                                                $(form).find('.form-process').fadeOut();
+                                                $(form).find('.form-control').val('');
+                                                $('#quick-contact-form-result').attr('data-notify-msg', $('#quick-contact-form-result').html()).html('');
+                                                SEMICOLON.widget.notifications($('#quick-contact-form-result'));
+                                            }
+                                        });
+                                    }
+                                });
+
+                            </script>
+
+                        </div>
+
+                    </div>
+
+                </div><!-- .footer-widgets-wrap end -->
+
+            </div>
+
+            <!-- Copyrights
+            ============================================= -->
+            <div id="copyrights">
+
+                <div class="container clearfix">
+
+                    <div class="col_full nobottommargin center">
+                        <div class="copyrights-menu copyright-links clearfix">
+                            <a href="/corp/privacy">隐私声明</a>/<a href="/corp/faq">常见问题</a>/<a href="/corp/about">关于我们</a>/<a href="/corp/suggestion">联系我们</a>
+                        </div>
+                        <p class="bottommargin10"><small><a href="http://www.beian.miit.gov.cn/" target="_blank">京 ICP 备 16052096 号</a><br>增值电信业务经营许可证：<a href="http://www.beian.miit.gov.cn/" target="_blank">京 B2-20160196</a></small></p>
+                        <p class="nobottommargin">烽火连城（北京）科技有限公司</p>
+                        <p class="nobottommargin">版权所有 &copy; 2013,2020 indienova.com 保留所有权利</p>
+                        <!-- GeoTrust True Site[tm] Smart Icon tag. Do not edit. -->
+                        <!--<SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript" SRC="//smarticon.geotrust.com/si.js"></SCRIPT>-->
+                        <!-- end GeoTrust Smart Icon tag -->
+                        <div class="hidden">
+                            2020-04-13 17:19:41
+                            <script>
+                                var cnzz_s_tag = document.createElement('script');
+                                cnzz_s_tag.type = 'text/javascript';
+                                cnzz_s_tag.async = true;
+                                cnzz_s_tag.charset = 'utf-8';
+                                cnzz_s_tag.src = 'https://w.cnzz.com/c.php?id=1000033182&async=1';
+                                var root_s = document.getElementsByTagName('script')[0];
+                                root_s.parentNode.insertBefore(cnzz_s_tag, root_s);
+                            </script>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div><!-- #copyrights end -->
+
+        </footer><!-- #footer end -->
+
+        <script>
+
+            /*
+            (function(){
+                var bp = document.createElement('script');
+                var curProtocol = window.location.protocol.split(':')[0];
+                if (curProtocol === 'https') {
+                    bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+                }
+                else {
+                    bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+                }
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(bp, s);
+            })();*/
+
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-102514550-1', 'auto');
+            ga('send', 'pageview');
+        </script>
+        <!--
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({
+                google_ad_client: "ca-pub-8440950526066694",
+                enable_page_level_ads: true
+            });
+        </script>
+        -->
+    </div><!-- #wrapper end -->
+
+    <!-- Go To Top ============================================= -->
+    <div id="gotoTop" class="icon-angle-up"></div>
+
+    <!-- Footer Scripts ============================================= -->
+                    <script type="text/javascript" src="https://static.indienova.com/assets/js/audioplayer.js"></script>
+                <script src="https://static.indienova.com/assets/js/vendor/mejs/mediaelement-and-player.min.js"></script>
+    <script src="https://static.indienova.com/assets/js/vendor/mejs/lang/zh-cn.js"></script>
+                <script src="https://res.wx.qq.com/open/js/jweixin-1.6.0.js"></script>
+    <script type="text/javascript" src="https://static.indienova.com/assets/js/functions.js?v=2020-03-31"></script>
+    <script type="text/javascript" src="https://static.indienova.com/assets/js/main.js?v=2020-03-31"></script>
+
+                <script>
+                $(document).ready(function () {
+                    /*
+                                             */
+                    wx.config({
+                        debug: false,
+                        appId: 'wx38efb8b5dace1256',
+                        timestamp: '1586769581',
+                        nonceStr: 'jsXvX6r0Gc5wmi3D',
+                        signature: 'c1a0de44808ee9f2482a57c11ec7d5cdbbd776ad',
+                        jsApiList: ['updateTimelineShareData', 'updateAppMessageShareData']
+                    });
+
+                    // 微信
+                    wx.ready(function() {
+
+                        wx.updateTimelineShareData({
+                            title: $('title').html(),
+                            link: location.href.split('#')[0],
+                            imgUrl: 'https://hive.indienova.com/farm/article/headpic/2019/11/head-8136Vo-Guide-2019-11-11-11-14.jpg',
+                            success: function() {},
+                            cancel: function() {}
+                        });
+
+                        wx.updateAppMessageShareData({
+                            title: $('title').html(),
+                            desc: '本周游戏数量还是比较多的，非独立游戏数量也不少，我们重点推荐的有国内团队的《斩妖 Raksasi》、《南瓜先生 2：九龙城寨》，以及《烁石物语（Sparklite）》、《黑猫侦探（Blacksad: Under the Skin）》等。',
+                            link: location.href.split('#')[0],
+                            imgUrl: 'https://hive.indienova.com/farm/article/headpic/2019/11/head-8136Vo-Guide-2019-11-11-11-14.jpg',
+                            type: '',
+                            dataUrl: ''
+                        });
+
+                    });
+
+                    /*
+                                             */
+
+                    $('pre').each(function(index){
+                        if ($(this)[0].style) {
+                            if ($(this)[0].style.length == 0)
+                                $(this).addClass('prettyprint');
+                        }
+                    });
+
+                    window.prettyPrint && prettyPrint();
+                });
+            </script>
+        
+    </body>
+</html>

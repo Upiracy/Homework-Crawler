@@ -1,0 +1,11 @@
+C:\Users\UPiracy\source\repos\Craw\Craw\bin\Debug\netcoreapp3.1\Craw.exe
+C:\Users\UPiracy\source\repos\Craw\Craw\bin\Debug\netcoreapp3.1\Craw.deps.json
+C:\Users\UPiracy\source\repos\Craw\Craw\bin\Debug\netcoreapp3.1\Craw.runtimeconfig.json
+C:\Users\UPiracy\source\repos\Craw\Craw\bin\Debug\netcoreapp3.1\Craw.runtimeconfig.dev.json
+C:\Users\UPiracy\source\repos\Craw\Craw\bin\Debug\netcoreapp3.1\Craw.dll
+C:\Users\UPiracy\source\repos\Craw\Craw\bin\Debug\netcoreapp3.1\Craw.pdb
+C:\Users\UPiracy\source\repos\Craw\Craw\obj\Debug\netcoreapp3.1\Craw.csprojAssemblyReference.cache
+C:\Users\UPiracy\source\repos\Craw\Craw\obj\Debug\netcoreapp3.1\Craw.AssemblyInfoInputs.cache
+C:\Users\UPiracy\source\repos\Craw\Craw\obj\Debug\netcoreapp3.1\Craw.AssemblyInfo.cs
+C:\Users\UPiracy\source\repos\Craw\Craw\obj\Debug\netcoreapp3.1\Craw.dll
+C:\Users\UPiracy\source\repos\Craw\Craw\obj\Debug\netcoreapp3.1\Craw.pdb
